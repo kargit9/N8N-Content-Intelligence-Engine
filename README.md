@@ -8,8 +8,8 @@
 **Business Problem**: Psychology content has massive demand but most creators miss trending topics or rehash old concepts. You need real-time intelligence on what's resonating with audiences.
 
 **Revenue Impact**: $50K-100K/year psychology channel through trend-timed content
-**Time Investment**: 6-8 hours setup, lifetime of automated intelligence
-**Difficulty**: Foundation level - perfect for learning core N8N patterns
+\n **Time Investment**: 6-8 hours setup, lifetime of automated intelligence
+\n **Difficulty**: Foundation level - perfect for learning core N8N patterns
 
 ---
 
